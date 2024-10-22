@@ -1,27 +1,27 @@
-# Cosid-Seaid - Coordenação de Sistemas e Dados da Secretaria de Assuntos Internacionais e Desenvolvimento
+# Coordenação de Sistemas e Dados da Secretaria de Assuntos Internacionais e Desenvolvimento
 
-Bem-vindo ao repositório oficial da Coordenação de Sistemas e Dados (Cosid) da Secretaria de Assuntos Internacionais e Desenvolvimento (Seaid) do Ministério do Planejamento e Orçamento (MPO). Esta organização no GitHub tem como objetivo centralizar e organizar os projetos de desenvolvimento de sistemas e soluções de dados da Seaid, voltados para atender demandas estratégicas da Secretaria.
+Seja bem-vindo ao repositório oficial da Coordenação de Sistemas e Dados (Cosid), vinculada à Secretaria de Assuntos Internacionais e Desenvolvimento (Seaid) do Ministério do Planejamento e Orçamento (MPO). Esta organização, mantida no GitHub, tem por finalidade centralizar e organizar os projetos de desenvolvimento de sistemas e soluções de dados da Seaid, os quais visam atender às demandas estratégicas da Secretaria.
 
 ## Sobre a Organização
 
-A Cosid é responsável pela coordenação de atividades relacionadas a dados e sistemas no contexto das relações internacionais e do desenvolvimento, atuando diretamente no apoio às iniciativas da Seaid. Nesta organização GitHub, agrupamos os projetos que refletem nossos esforços contínuos para melhorar a gestão de dados e a automação de processos dentro do governo federal.
+A Cosid exerce a função de coordenar atividades relacionadas a sistemas e dados no âmbito das relações internacionais e do desenvolvimento, prestando suporte direto às iniciativas da Seaid. Neste ambiente do GitHub, estão agrupados os projetos que espelham nossos esforços contínuos na melhoria da gestão de dados e na automação de processos no governo federal.
 
 ### Repositórios Privados
 
-Devido à natureza sensível das informações com as quais trabalhamos, a maioria dos repositórios nesta organização são privados. Esses repositórios contêm soluções técnicas, automações e análises de dados desenvolvidas para apoiar políticas públicas e tomadas de decisões estratégicas. Se você tem permissão de acesso, entre em contato com o administrador do projeto para obter mais informações sobre o conteúdo específico.
+Em razão da natureza sensível das informações tratadas, a maior parte dos repositórios desta organização são privados. Esses repositórios contêm soluções técnicas, automações e análises de dados, desenvolvidas com o objetivo de apoiar a formulação de políticas públicas e a tomada de decisões estratégicas. Caso possua permissão de acesso, solicitamos que entre em contato com o administrador do projeto para obter detalhes sobre o conteúdo específico.
 
 ## Página na Web
 
-Você pode acessar mais informações sobre as iniciativas da Seaid na página oficial do Ministério do Planejamento e Orçamento clicando no link abaixo:
+Informações adicionais sobre as iniciativas da Seaid podem ser acessadas na página oficial do Ministério do Planejamento e Orçamento, disponível no link abaixo:
 
 [Seaid - MPO](https://www.gov.br/planejamento/pt-br/assuntos/assuntos-internacionais-e-desenvolvimento)
 
 ## Contato
 
-Caso tenha dúvidas ou precise de mais informações sobre esta organização no GitHub, entre em contato com:
+Para dúvidas ou informações adicionais acerca desta organização no GitHub, favor contatar:
 
-Raphael Amaro - ([raphael.amaro@planejamento.gov.br](mailto:raphael.amaro@planejamento.gov.br))
+Raphael Amaro ([raphael.amaro@planejamento.gov.br](mailto:raphael.amaro@planejamento.gov.br))
 
 ---
 
-*Este repositório e seus conteúdos estão sob a administração da Seaid e seguem as diretrizes e políticas de segurança e privacidade do MPO.*
+*Este repositório e seu conteúdo são administrados pela Seaid e seguem rigorosamente as diretrizes e as políticas de segurança e privacidade do Ministério do Planejamento e Orçamento.*
