@@ -20,8 +20,7 @@ Você pode acessar mais informações sobre as iniciativas da Seaid na página o
 
 Caso tenha dúvidas ou precise de mais informações sobre esta organização no GitHub, entre em contato com:
 
-Raphael Amaro - **Coordenação de Sistemas e Dados - Seaid**  
-E-mail: [raphael.amaro@planejamento.gov.br](mailto:raphael.amaro@planejamento.gov.br)
+Raphael Amaro - [raphael.amaro@planejamento.gov.br](mailto:raphael.amaro@planejamento.gov.br)
 
 ---
 
