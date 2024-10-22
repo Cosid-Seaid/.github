@@ -1,4 +1,4 @@
-# Coordenação de Sistemas e Dados da Secretaria de Assuntos Internacionais e Desenvolvimento
+# Coordenação de Sistemas e Dados
 
 Seja bem-vindo ao repositório oficial da Coordenação de Sistemas e Dados (Cosid), vinculada à Secretaria de Assuntos Internacionais e Desenvolvimento (Seaid) do Ministério do Planejamento e Orçamento (MPO). Esta organização, mantida no GitHub, tem por finalidade centralizar e organizar os projetos de desenvolvimento de sistemas e soluções de dados da Seaid, os quais visam atender às demandas estratégicas da Secretaria.
 
